@@ -30,6 +30,11 @@
 
 .pokeImg {
   width: 500px;
+  filter: brightness(0%);
+}
+
+.showPokeImg {
+  width: 500px;
 }
 
 .pokeName {
